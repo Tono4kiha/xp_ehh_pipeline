@@ -187,7 +187,14 @@ Final merged results / 最终合并结果：
 - Sub-scripts are generated per chromosome; parallel submission (e.g. with a
   scheduler) is left to the user.
   子脚本按染色体生成；是否并行投递（如提交到调度系统）由用户自行处理。
-```
+
+## Authors | 作者
+
+The script sources are complex, and we thank the authors of some scripts in the corresponding directories.
+If there are any omissions, please inform us in the issue.
+
+The main creators include:
+
 <table>
   <tr>
     <td>中文名</td>
@@ -208,3 +215,4 @@ Final merged results / 最终合并结果：
     <td>https://github.com/Tono4kiha</td>
   </tr>
 </table>
+
